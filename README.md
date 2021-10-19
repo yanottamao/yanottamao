@@ -2,6 +2,8 @@
 
 ### Hi there, Yanottama Oktabrian here 👋
 
+![](https://komarev.com/ghpvc/?username=yanottamao)
+
 <!--
 **yanottamao/yanottamao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
